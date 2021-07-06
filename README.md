@@ -15,7 +15,7 @@
 
 
 
-</br>
+<br />
 ### Web development tech:
 - Java Spring Boot
 - NodeJS

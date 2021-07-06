@@ -15,13 +15,6 @@
 
 
 
-<br />
-### Web development tech:
-- Java Spring Boot
-- NodeJS
-- ReactJS
-- Postman
-
 ### Database and related tech:
 - MySQL
 - SQL

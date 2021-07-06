@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1HWvCpSlDyXOEqX_pIWZj6&ust=1625677054586000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMii6Yz1zvECFQAAAAAdAAAAABAD" />][linkedin]
 
 [LinkedIn]: www.linkedin.com/in/fardin-abdullah-230
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt Text](https://github.com/fabdullah230/fabdullah230/blob/main/intro%20gif.gif)
 
 
 

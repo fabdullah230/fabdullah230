@@ -17,9 +17,9 @@
 
 
 
-###  Connect with me on LinkedIn  ->  [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+###  Connect with me on LinkedIn  ->  <a href="https://www.linkedin.com/in/fardin-abdullah-230"><img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 
-[LinkedIn]: www.linkedin.com/in/fardin-abdullah-230
+
 
 <br />
 

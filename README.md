@@ -2,26 +2,60 @@
 
 
 
-### Connect with me on LinkedIn [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+
+
+## Welcome to my _organised_ stash of codes
+
+### Hello I'm Fardin Abdullah, I am a penultimate year CS major in CUHK. I am:
+
+- Actively looking for internship opportunities
+- Eager to  work in competitive and challenging environments
+- Currently focused on skill development and learning
+- Quite personable and a good team player
+
+
+
+
+
+###  Connect with me on LinkedIn  ->  [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [LinkedIn]: www.linkedin.com/in/fardin-abdullah-230
 
-### Languages:
-   
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://brandslogos.com/wp-content/uploads/images/java-logo.png" /> 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" /> 
+<br />
 
 
+### 📖 Languages:
+
+```
+Java | C | Python | Javascript
+```
+
+### 🕸 Web development tech:
+```
+Spring Boot | ReactJS | NodeJS | Postman
+```
+### 📂 Database related tech:
+
+```
+MySQL | MongoDB | Hibernate, JPA, JDBC | SQL 
+```
+
+### 🚢 DevOps tech:
+```
+Docker
+```
+
+### 🖥️ OS preferences:
+```
+Windows | Ubuntu 
+```
+
+### 📑 Others:
+```
+Spring JWT security | terminal | MS Office | Photoshop
+```
 
 
-### Database and related tech:
-- MySQL
-- SQL
-- MongoDB
-- JDBC
-- Spring Hibernate
 
 
 <!--
@@ -38,3 +72,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

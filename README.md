@@ -7,7 +7,7 @@
 [LinkedIn]: www.linkedin.com/in/fardin-abdullah-230
 
 ### Languages:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://brandslogos.com/wp-content/uploads/images/java-logo.png" />] Java
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://brandslogos.com/wp-content/uploads/images/java-logo.png" /> Java
 
 ### Web development tech:
 - Java Spring Boot

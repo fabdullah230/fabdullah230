@@ -4,7 +4,7 @@
 
 
 
-## Welcome to my _organised_ stash of codes
+## Welcome to my _organized_ stash of codes
 
 ### Hello I'm Fardin Abdullah, I am a penultimate year CS major in CUHK. I am:
 

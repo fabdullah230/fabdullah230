@@ -9,7 +9,13 @@
 ### Languages:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://brandslogos.com/wp-content/uploads/images/java-logo.png" /> 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" /> 
 
+
+
+
+</br>
 ### Web development tech:
 - Java Spring Boot
 - NodeJS

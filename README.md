@@ -2,6 +2,8 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
+
+## Connect with me on LinkedIn
 [LinkedIn]: www.linkedin.com/in/fardin-abdullah-230
 
 

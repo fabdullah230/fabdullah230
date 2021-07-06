@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+[LinkedIn]: www.linkedin.com/in/fardin-abdullah-230
+
+
 <!--
 **fabdullah230/fabdullah230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

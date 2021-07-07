@@ -1,20 +1,6 @@
 ![Alt Text](https://github.com/fabdullah230/fabdullah230/blob/main/intro%20gif.gif)
 
-<img id = "gg" align="center" alt="codeSTACKr | LinkedIn"  src="https://github.com/fabdullah230/fabdullah230/blob/main/intro%20gif.gif" onClick="document.getElementById('gg').src='https://github.com/fabdullah230/fabdullah230/blob/main/12.png?raw=true'"/>
 
-<a>
-<button id="button1" onClick="document.getElementById('gg').src='https://github.com/fabdullah230/fabdullah230/blob/main/12.png?raw=true'">Click to turn on GIF</button>
-<button id="button2" onClick="document.getElementById('gg').src='https://github.com/fabdullah230/fabdullah230/blob/main/intro%20gif.gif'">Click to turn off GIF</button>
-<style>
-button{
-    background-color:black;
-    color : white;
-    width : 140px;
-    font-size : 10px;
-    font-family : consolas;
-}
-</style>
-    </a>
 
 
 

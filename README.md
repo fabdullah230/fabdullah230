@@ -37,12 +37,12 @@ Spring Boot | ReactJS | NodeJS | Postman
 ### 📂 Database related tech:
 
 ```
-MySQL | MongoDB | Hibernate, JPA, JDBC | SQL 
+MySQL | MongoDB | Hibernate, JPA, JDBC | SQL | Redis
 ```
 
 ### 🚢 DevOps tech:
 ```
-Docker
+Docker | NginX
 ```
 
 ### 🖥️ OS preferences:
@@ -52,7 +52,7 @@ Windows | Ubuntu
 
 ### 📑 Others:
 ```
-Spring JWT security | terminal | MS Office | Photoshop
+Spring JWT security | terminal | MS Office | Photoshop | OAuth
 ```
 
 

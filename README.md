@@ -13,6 +13,8 @@
 - Currently focused on skill development and learning
 - Quite personable and a good team player
 
+### Live crypto prices at my site -> https://cryptoken.netlify.app/
+
 
 
 

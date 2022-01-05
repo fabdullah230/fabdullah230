@@ -34,7 +34,7 @@ Java | C | Python | Javascript
 
 ### 🕸 Web development tech:
 ```
-Spring Boot | ReactJS | NodeJS | Postman
+Spring Boot | ReactJS | NodeJS | Flask | Postman
 ```
 ### 📂 Database related tech:
 

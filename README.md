@@ -39,7 +39,7 @@ Spring Boot | ReactJS | NodeJS | Flask | Postman
 ### 📂 Database related tech:
 
 ```
-MySQL | MongoDB | Hibernate, JPA, JDBC | SQL | Redis
+MySQL | MongoDB | JPA, JDBC | Redis
 ```
 
 ### 🚢 DevOps tech:

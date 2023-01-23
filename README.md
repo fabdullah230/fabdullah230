@@ -6,7 +6,7 @@
 
 ## Welcome to my _organized_ stash of codes
 
-### Hello I'm Fardin Abdullah, I am a final year CS major in CUHK. I am:
+### Hello I'm Fardin Abdullah, I am a penultimate year CS major in CUHK. I am:
 
 - Actively looking for internship opportunities
 - Eager to  work in competitive and challenging environments

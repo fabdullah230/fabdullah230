@@ -14,12 +14,9 @@
 - Quite personable and a good team player
 
 ### Live crypto prices at my site -> https://cryptoken.netlify.app/
+### Currently building a multi-exchange trading platform -> https://cryptic-fe-pearl.vercel.app/trade
 
 
-
-
-
-###  Connect with me on LinkedIn  ->  <a href="https://www.linkedin.com/in/fardin-abdullah-230"><img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 
 
 

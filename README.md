@@ -8,7 +8,7 @@
 
 ### Hello I'm Fardin Abdullah, I am a final year CS major in CUHK. I am:
 
-- Actively looking for 2024 graduate developer opportunities
+- Actively looking for 2024 graduate (java) developer opportunities
 - Eager to  work in competitive and challenging environments
 - Currently focused on skill development and learning
 - Quite personable and a good team player
